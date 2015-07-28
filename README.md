@@ -1,3 +1,4 @@
 # general
-first general one
-It's good.
+first general one.
+
+It's good!
